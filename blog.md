@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reflections
-permalink: /reflections/
+permalink: /blogs/
 ---
 
 I will post the best Reflections on each lecture here.
